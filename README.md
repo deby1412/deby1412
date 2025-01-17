@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"">
-  <img align="right" alt="Deby-Gif" src="https://github.com/deby1412/deby1412/blob/main/design.gif" width="150" style="border-radius: 10px;">
+  <img align="right" alt="Deby-Gif" src="https://github.com/deby1412/deby1412/blob/main/design.gif" width="130" style="border-radius: 10px;">
 
 
 
